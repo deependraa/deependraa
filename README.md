@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deependraa
 - 👀 I’m interested in Web Development with HTML,CSS, JAVASCRIPT,JQUERY, DJANGO
 - 🌱 I’m currently learning MACHINE LEARNING
-- 💞️ I’m looking to collaborate on Web Apps wsing the above Frameworks
+- 💞️ I’m looking to collaborate on Web Apps using the above Frameworks
 - 📫 How to reach me :- deependrasingh158@gmail.com
 
 <!---
