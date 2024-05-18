@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deependra158" target="blank"><img src="https://img.shields.io/twitter/follow/deependra158?logo=twitter&style=for-the-badge" alt="deependra158" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👯 I’m looking to collaborate on **MERN Stack project**
 
